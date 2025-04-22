@@ -1,12 +1,12 @@
 # [Integrating the Object into Video Object Detection and Segmentation](https://github.com/Dezmoine/Cutie)
 
-[Ho Kei Cheng](https://hkchengrex.github.io/), [Seoung Wug Oh](https://sites.google.com/view/seoungwugoh/), [Brian Price](https://www.brianpricephd.com/), [Joon-Young Lee](https://joonyoung-cv.github.io/), [Alexander Schwing](https://www.alexander-schwing.de/)
+[Desmond Kwaku Duah]
 
-University of Illinois Urbana-Champaign and Adobe
+Kwame Nkrumah University of Science and Technology, Kumasi
 
-CVPR 2024, Highlight
+CVPR 2025, Highlight
 
-[[arXiV]](https://arxiv.org/abs/2310.12982) [[PDF]](https://arxiv.org/pdf/2310.12982.pdf) [[Project Page]](https://hkchengrex.github.io/Cutie/) [![Open In Colab](https://colab.research.google.com/drive/1Thdh6k_0ckHfjMgthmR89luKI8MU-4TX)
+[[Project Page]](https://github.com/Dezmoine/Cutie) [![Open In Colab]](https://colab.research.google.com/drive/1Thdh6k_0ckHfjMgthmR89luKI8MU-4TX)
 
 ## Highlight
 
