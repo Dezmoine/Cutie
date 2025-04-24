@@ -4,7 +4,6 @@
 
 Kwame Nkrumah University of Science and Technology, Kumasi
 
-CVPR 2025, Highlight
 
 [[Project Page]](https://github.com/Dezmoine/Cutie) [![Open In Colab]](https://colab.research.google.com/drive/1Thdh6k_0ckHfjMgthmR89luKI8MU-4TX)
 
